@@ -2,7 +2,7 @@
 
 Awesome Critical Thinking Podcast Episodes
 
-Curated by Blair Wang.
+Curated by [Blair Wang](https://blair.wang/).
 
 ## Digital Literacy
 
