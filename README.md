@@ -23,6 +23,7 @@ Curated by [Blair Wang](https://blair.wang/).
 - _99% Invisible_ / Roman Mars (2022) on **"Reaction Offices and the Future of Work"**. 43 minutes. [https://99percentinvisible.org/episode/reaction-offices-and-the-future-of-work/](https://99percentinvisible.org/episode/reaction-offices-and-the-future-of-work/)
 - _The Future This Week_ / Sandra Peter and Kai Riemer (2023) on **"ChatGPT and generative AI"**. 33 minutes. [https://sbi.sydney.edu.au/chatgpt-and-generative-ai/](https://sbi.sydney.edu.au/chatgpt-and-generative-ai/)
 - _The Secret History of the Future_ / Tom Standage and Seth Stevenson (2018) on the **parallels between the 1834 'hack' of the French telegraph system and modern-day cybersecurity**. 30 minutes. [https://slate.com/technology/2018/10/what-an-1834-hack-of-the-french-telegraph-system-can-teach-us-about-modern-day-network-security.html](https://slate.com/technology/2018/10/what-an-1834-hack-of-the-french-telegraph-system-can-teach-us-about-modern-day-network-security.html)
+- _The Future This Week_ / Sandra Peter and Kai Riemer (2022) on **noise, intuition, decision-making** (with [Daniel Kahneman](https://en.wikipedia.org/wiki/Daniel_Kahneman)). [https://sbi.sydney.edu.au/noise-and-other-distractions-with-daniel-kahneman/](https://sbi.sydney.edu.au/noise-and-other-distractions-with-daniel-kahneman/)
 
 ## Wisdom through Concepts
 
